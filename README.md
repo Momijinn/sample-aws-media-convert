@@ -1,7 +1,7 @@
 sample-aws-media-converter
 ===============
 
-AWS media converter を使ってみた
+AWS MediaConvertet を使ってみた
 
 ## Requirements
 
@@ -15,7 +15,6 @@ AWS media converter を使ってみた
 "env": {
   "AWS_ACCESS_KEY_ID": "${YOUR_AWS_ACCESS_KEY_ID}",
   "AWS_SECRET_ACCESS_KEY": "${YOUR_AWS_SECRET_ACCESS_KEY}",
-
 },
 ```
 
