@@ -1,4 +1,4 @@
-sample-aws-media-convertet
+sample-aws-media-convert
 ===============
 
 AWS MediaConvertet を使ってみた
